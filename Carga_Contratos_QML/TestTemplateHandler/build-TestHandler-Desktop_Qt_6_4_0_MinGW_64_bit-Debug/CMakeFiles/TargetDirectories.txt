@@ -1,0 +1,6 @@
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/TestHandler.dir
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/TestHandler_autogen_timestamp_deps.dir
+C:/Users/iamsr/OneDrive/Documentos/Workspaces/QT-GIT/QT-QML-PROJECTS/Carga_Contratos_QML/TestTemplateHandler/build-TestHandler-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/TestHandler_autogen.dir
